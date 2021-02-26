@@ -1,0 +1,19 @@
+.product{
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+    border-bottom: 1px solid orange;
+    margin-left: 20px;
+}
+.product-name{
+    padding-left: 10px;
+    color: orange;
+}
+.btn{
+    width: 150px;
+    background-color: orange;
+    border-radius: 4px;
+    border:1px solid gray;
+    height: 30px;
+    cursor: pointer;
+}
